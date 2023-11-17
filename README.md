@@ -5,13 +5,13 @@ I am a Front-end Developer with 5 years of experience building desktop and mobil
 
 ## 🌎 Live projects
 
-1. **[Tech team blog at Dito]**
+1. **Tech team blog at Dito**
    - A tech team blog post made with GatsbyJs and GraphQL. It was my first project in the company in 2019.
    - [see right here!](https://eng.dito.com.br/feras/)
 
-2. **[Reckdefy landing page]**
+2. **Reckdefy landing page**
    - A landing page for a company focused in digital strategies using NextJs.
-   - [see right here!]([https://eng.dito.com.br/feras/](https://www.reckdefy.com/))
+   - [see right here!]([https://eng.dito.com.br/feras/](https://www.reckdefy.com/)
 
 ## 👨🏻‍💻 Main languages
 
