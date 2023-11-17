@@ -11,7 +11,7 @@ I am a Front-end Developer with 5 years of experience building desktop and mobil
 
 2. **Reckdefy landing page**
    - A landing page for a company focused in digital strategies using NextJs.
-   - [see right here!]([https://eng.dito.com.br/feras/](https://www.reckdefy.com/)
+   - [see right here!](https://eng.dito.com.br/feras/](https://www.reckdefy.com/)
 
 ## 👨🏻‍💻 Main languages
 
@@ -20,8 +20,8 @@ I am a Front-end Developer with 5 years of experience building desktop and mobil
 
 ## 📫 How to reach me
 
-[Linkedin]: [Linkedin](https://www.linkedin.com/in/rogermoura12/)]
-[Email]: [rosestolato.rogerio@gmail.com]
+Linkedin: https://www.linkedin.com/in/rogermoura12/
+Email: rosestolato.rogerio@gmail.com
 
 
 
