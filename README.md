@@ -11,14 +11,13 @@ I am a Front-end Developer with 5 years of experience building desktop and mobil
 2. **Reckdefy landing page**
    - A landing page for a company focused in digital strategies using NextJs. [See right here!](https://www.reckdefy.com/)
 
-## 👨🏻‍💻 Main languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger067&layout=compact&theme=dark" alt="main-languages-chart" />
-
 ## 📫 How to reach me
-
-[<img align="center" alt="Rogerio | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rogermoura12/)
-<p>✉️<b>E-mail</b>: rosestolato.rogerio@gmail.com</p>
+<a href="mailto:rosestolato.rogerio@gmail.com?Subject=Lets%20Talk!">
+   <img align="left" alt="Email rosestolato.rogerio@gmail.com" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rogermoura12/">
+   <img align="left" alt="Linkedin rogermoura12" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
 
