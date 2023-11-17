@@ -15,13 +15,12 @@ I am a Front-end Developer with 5 years of experience building desktop and mobil
 
 ## 👨🏻‍💻 Main languages
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=roger067&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_rank=true" alt="git-infos" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger067&layout=compact&theme=dark" alt="main-languages-chart" />
 
 ## 📫 How to reach me
 
 [<img align="center" alt="Zatta | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rogermoura12/)
-[<img align="center" alt="Zatta | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](rosestolato.rogerio@gmail.com)
+<p>✉️E-mail: rosestolato.rogerio@gmail.com</p>
 
 
 
